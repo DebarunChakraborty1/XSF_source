@@ -36,7 +36,6 @@
  */
 
 #include "adapter_internal.h"
-#example_entry
 #include "adapter.h"
 #include "nrf_error.h"
 #include "serialization_transport.h"
